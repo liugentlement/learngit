@@ -1,2 +1,2 @@
 Git is a version distory control system
-Git is free software
+Git is free software openGPL
