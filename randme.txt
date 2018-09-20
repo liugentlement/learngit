@@ -1,3 +1,5 @@
 Git is a version distory control system
 Git is free software openGPL
 I want to by a qingqusiwa
+taday yes taday
+Hello Word!
